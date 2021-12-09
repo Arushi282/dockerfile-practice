@@ -1,3 +1,5 @@
+# Author: Arushi Ahuja 
+
 FROM jupyter/minimal-notebook
 
 RUN conda install --quiet --yes \
